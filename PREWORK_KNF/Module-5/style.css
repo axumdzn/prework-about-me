@@ -1,0 +1,28 @@
+.center {text-align:center;}
+
+.red {color:red;}
+
+.blue {color:blue;}
+
+.green {color:green;}
+
+.big {font-size: x-large;}
+
+.small {font-size: small;}
+
+.bold {font-weight: bolder;}
+
+.orange {color: orange;}
+
+.font {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+.styledFont {color:green;
+    font-size: large;
+    font-style: italic;
+    background-color: blue;}
+
+#styledImage {
+    border-width: 2px;
+    border-color: white;
+    border-style: groove;
+}

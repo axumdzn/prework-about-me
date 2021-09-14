@@ -1,0 +1,17 @@
+Fixes done:
+
+Logic.js
+1. fixed quotation in booFacts initalization
+2.fixed quotation in line 9
+3. added quotation to box grox and shrink
+
+html file
+
+1.Line 19 made it a h1 instead of normal
+2. fixed general indenting of the lines
+3. lines 41-52 got a p tag on it
+4. Line 59 get <>
+5. line 82-86 added li tags
+6. change src for script from errors.js to logic.js
+7. change the color button text to the appropiate names
+8. replaced order to match grumpy cat
